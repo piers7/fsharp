@@ -163,7 +163,7 @@
     <value>Uppercase variable identifiers should not generally be used in patterns, and may indicate a misspelt pattern name.</value>
   </data>
   <data name="NotUpperCaseConstructor" xml:space="preserve">
-    <value>Discriminated union cases and exception labels must be uppercase identifiers</value>
+    <value>Discriminated union cases and exception labels must begin with uppercase letters</value>
   </data>
   <data name="PossibleOverload" xml:space="preserve">
     <value>Possible overload: '{0}'. {1}.</value>
